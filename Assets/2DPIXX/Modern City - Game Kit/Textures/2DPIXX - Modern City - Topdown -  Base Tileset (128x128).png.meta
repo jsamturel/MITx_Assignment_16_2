@@ -1,0 +1,2647 @@
+fileFormatVersion: 2
+guid: 9ed0e766cfaa7a4dabaefad552815627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6693406250311405919
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_0
+  - first:
+      213: -233398104177348886
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_1
+  - first:
+      213: 2872016257143500318
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_2
+  - first:
+      213: -5166121444744963669
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_3
+  - first:
+      213: 6356145108933058388
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_4
+  - first:
+      213: 9043581231972532733
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_5
+  - first:
+      213: -5608281109510845843
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_6
+  - first:
+      213: -5310861053399109073
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_7
+  - first:
+      213: -5634955962121873628
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_8
+  - first:
+      213: 7871122589941489723
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_9
+  - first:
+      213: 5566745936981520381
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_10
+  - first:
+      213: 6064690264152279716
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_11
+  - first:
+      213: -6016012732243632423
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_12
+  - first:
+      213: -5225290663331279807
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_13
+  - first:
+      213: 5324042441840616338
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_14
+  - first:
+      213: 3312212911341949131
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_15
+  - first:
+      213: 7776589051660251051
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_16
+  - first:
+      213: -91594281232979384
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_17
+  - first:
+      213: -2868469983518839749
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_18
+  - first:
+      213: -7220531789331306899
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_19
+  - first:
+      213: 7594926967336885835
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_20
+  - first:
+      213: 817315703899638092
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_21
+  - first:
+      213: 900418716592918881
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_22
+  - first:
+      213: 3627268556938825121
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_23
+  - first:
+      213: -3588643335362604692
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_24
+  - first:
+      213: 4712513969295837849
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_25
+  - first:
+      213: 7940365893730172415
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_26
+  - first:
+      213: -1081277098791267266
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_27
+  - first:
+      213: 8868652563067299175
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_28
+  - first:
+      213: -426226395277415623
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_29
+  - first:
+      213: 7365361062621031571
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_30
+  - first:
+      213: -5871277695618866149
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_31
+  - first:
+      213: -3034158554710156904
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_32
+  - first:
+      213: -6396009764382628593
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_33
+  - first:
+      213: -8773158245905511654
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_34
+  - first:
+      213: 7496996271278002075
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_35
+  - first:
+      213: 7829174829628064135
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_36
+  - first:
+      213: 1301414805135742230
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_37
+  - first:
+      213: 4769883419265213539
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_38
+  - first:
+      213: -3018855057857502692
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_39
+  - first:
+      213: 7223753360504632468
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_40
+  - first:
+      213: -7421108633754805801
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_41
+  - first:
+      213: 3584755767411530907
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_42
+  - first:
+      213: -2457655623217937902
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_43
+  - first:
+      213: 1109257120225405699
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_44
+  - first:
+      213: -3676751332578701150
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_45
+  - first:
+      213: -1018502667427163199
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_46
+  - first:
+      213: 7467830232443448104
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_47
+  - first:
+      213: -92558030934451252
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_48
+  - first:
+      213: -6558868845897595640
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_49
+  - first:
+      213: 8570722114676664175
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_50
+  - first:
+      213: -4936170674473721938
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_51
+  - first:
+      213: -8485265814285900000
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_52
+  - first:
+      213: -8798030803875586276
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_53
+  - first:
+      213: 4663779770686942169
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_54
+  - first:
+      213: 1867437801796007965
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_55
+  - first:
+      213: 2832190506308673281
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_56
+  - first:
+      213: 6867064520886405428
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_57
+  - first:
+      213: -5743991351009614991
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_58
+  - first:
+      213: -715086791763809006
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_59
+  - first:
+      213: 1676907403536000698
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_60
+  - first:
+      213: -4735758825253246236
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_61
+  - first:
+      213: 8061046610270007253
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_62
+  - first:
+      213: -5916712213122427524
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_63
+  - first:
+      213: -8726702822088271442
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_64
+  - first:
+      213: 6626137314111291314
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_65
+  - first:
+      213: -5589838686380328924
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_66
+  - first:
+      213: -9054332451798917771
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_67
+  - first:
+      213: -2687498187854053125
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_68
+  - first:
+      213: 3669738348542745629
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_69
+  - first:
+      213: 8361032609329811432
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_70
+  - first:
+      213: -3580331181278662153
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_71
+  - first:
+      213: -9118044966382915915
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_72
+  - first:
+      213: -2436238440861763604
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_73
+  - first:
+      213: -4048884495215605241
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_74
+  - first:
+      213: -4643769589034668216
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_75
+  - first:
+      213: -8980783465912633993
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_76
+  - first:
+      213: -7725487765156215510
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_77
+  - first:
+      213: -2149892813544216824
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_78
+  - first:
+      213: 2344781409779974272
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_79
+  - first:
+      213: -8675127550400711437
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_80
+  - first:
+      213: 4309114635083098435
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_81
+  - first:
+      213: -7688174507645398297
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_82
+  - first:
+      213: -5468631267354124416
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_83
+  - first:
+      213: -2083664907429526319
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_84
+  - first:
+      213: 8231799660029525104
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_85
+  - first:
+      213: -8748525902463298471
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_86
+  - first:
+      213: -3967498210461513283
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_87
+  - first:
+      213: -884397889498679378
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_88
+  - first:
+      213: -7740561953571503994
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_89
+  - first:
+      213: -1798151684395516230
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_90
+  - first:
+      213: 5397273534408910752
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_91
+  - first:
+      213: -527930509808046457
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_92
+  - first:
+      213: 4843451019466916253
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_93
+  - first:
+      213: 8837189988731371122
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_94
+  - first:
+      213: -287030492128599085
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_95
+  - first:
+      213: 7538615268083410567
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_96
+  - first:
+      213: -5410885468404150501
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_97
+  - first:
+      213: -2252107375161963932
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_98
+  - first:
+      213: -2591855645205804748
+    second: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_99
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2fc08a7e3c13a0800000000000000
+      internalID: -6693406250311405919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee624d29adc2ccf0800000000000000
+      internalID: -233398104177348886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6f2cb1937bd720800000000000000
+      internalID: 2872016257143500318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d273daef3e48b0800000000000000
+      internalID: -5166121444744963669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9acedc40953850800000000000000
+      internalID: 6356145108933058388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cc1d2731418d70800000000000000
+      internalID: 9043581231972532733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a821b7b026b22b0800000000000000
+      internalID: -5608281109510845843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2270b492080c46b0800000000000000
+      internalID: -5310861053399109073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42791c0686d9cc1b0800000000000000
+      internalID: -5634955962121873628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e305ea48db3d60800000000000000
+      internalID: 7871122589941489723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe1a09fed014d40800000000000000
+      internalID: 5566745936981520381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0193c9ab1a2450800000000000000
+      internalID: 6064690264152279716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de14625b44d28ca0800000000000000
+      internalID: -6016012732243632423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c49f393d90c77b0800000000000000
+      internalID: -5225290663331279807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936303946cc2e940800000000000000
+      internalID: 5324042441840616338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0dff0181857fd20800000000000000
+      internalID: 3312212911341949131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa6645a8efbeb60800000000000000
+      internalID: 7776589051660251051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa6ab8c779abef0800000000000000
+      internalID: -91594281232979384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c2d7f6fb52138d0800000000000000
+      internalID: -2868469983518839749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ed77f7948bcb90800000000000000
+      internalID: -7220531789331306899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e562f46d9966960800000000000000
+      internalID: 7594926967336885835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4949486d40b75b00800000000000000
+      internalID: 817315703899638092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16152a75d0eee7c00800000000000000
+      internalID: 900418716592918881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4841d885a65230800000000000000
+      internalID: 3627268556938825121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61932266e3923ec0800000000000000
+      internalID: -3588643335362604692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac1f2bc76366140800000000000000
+      internalID: 4712513969295837849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf962e5b8d13e60800000000000000
+      internalID: 7940365893730172415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3418ce15388ef0f0800000000000000
+      internalID: -1081277098791267266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ebf99488c31b70800000000000000
+      internalID: 8868652563067299175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b289b0a5db51af0800000000000000
+      internalID: -426226395277415623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2504fcd4073660800000000000000
+      internalID: 7365361062621031571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a6fe0b08058ea0800000000000000
+      internalID: -5871277695618866149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d942ced084e5d0800000000000000
+      internalID: -3034158554710156904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f052b0eb10fcc37a0800000000000000
+      internalID: -6396009764382628593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b438abe0b7f3680800000000000000
+      internalID: -8773158245905511654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f04ff436eaa0860800000000000000
+      internalID: 7496996271278002075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781096cd601d6ac60800000000000000
+      internalID: 7829174829628064135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615dc8dbedd8f0210800000000000000
+      internalID: 1301414805135742230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3642459a2b7023240800000000000000
+      internalID: 4769883419265213539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122308c15fda16d0800000000000000
+      internalID: -3018855057857502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b9e5886def3460800000000000000
+      internalID: 7223753360504632468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d57d240de20990800000000000000
+      internalID: -7421108633754805801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd81ba06c9fb130800000000000000
+      internalID: 3584755767411530907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2128add5b37a4edd0800000000000000
+      internalID: -2457655623217937902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bab97497fd46f00800000000000000
+      internalID: 1109257120225405699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d33ea42e89fcc0800000000000000
+      internalID: -3676751332578701150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35731683d8dd1f0800000000000000
+      internalID: -1018502667427163199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be6b7b70013a760800000000000000
+      internalID: 7467830232443448104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbda0516fa27bef0800000000000000
+      internalID: -92558030934451252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c5e7f8873af4a0800000000000000
+      internalID: -6558868845897595640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6723e98a5251f670800000000000000
+      internalID: 8570722114676664175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf1b4dace23f7bb0800000000000000
+      internalID: -4936170674473721938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02729b2e2b74e3a80800000000000000
+      internalID: -8485265814285900000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1d0c099d17e580800000000000000
+      internalID: -8798030803875586276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba27eddf219b040800000000000000
+      internalID: 4663779770686942169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ff2069c87ae910800000000000000
+      internalID: 1867437801796007965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f13c88246fd4720800000000000000
+      internalID: 2832190506308673281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394f196cc6bc4f50800000000000000
+      internalID: 6867064520886405428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e72a9c4e3940b0800000000000000
+      internalID: -5743991351009614991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d28510a508316f0800000000000000
+      internalID: -715086791763809006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66cfc1662954710800000000000000
+      internalID: 1676907403536000698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaebd68074374eb0800000000000000
+      internalID: -4735758825253246236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa20bce279edf60800000000000000
+      internalID: 8061046610270007253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755f9a179d93eda0800000000000000
+      internalID: -5916712213122427524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99705f40684e680800000000000000
+      internalID: -8726702822088271442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7098c7c4c4fb50800000000000000
+      internalID: 6626137314111291314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428709ab457ec62b0800000000000000
+      internalID: -5589838686380328924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddb346b9c885280800000000000000
+      internalID: -9054332451798917771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0047a13a614bad0800000000000000
+      internalID: -2687498187854053125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd48bb5978de230800000000000000
+      internalID: 3669738348542745629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8f8a0cda580470800000000000000
+      internalID: 8361032609329811432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f171a192cb105ec0800000000000000
+      internalID: -3580331181278662153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be25bc9962367180800000000000000
+      internalID: -9118044966382915915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77848bb0eb03ed0800000000000000
+      internalID: -2436238440861763604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4616e0097fc7c0800000000000000
+      internalID: -4048884495215605241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa3da99240e8fb0800000000000000
+      internalID: -4643769589034668216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775739d1509dd5380800000000000000
+      internalID: -8980783465912633993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25cc391fcd89c490800000000000000
+      internalID: -7725487765156215510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807288f60eb0a22e0800000000000000
+      internalID: -2149892813544216824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08000edd4465a8020800000000000000
+      internalID: 2344781409779974272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43929a471cb9780800000000000000
+      internalID: -8675127550400711437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a0901eec0dcb30800000000000000
+      internalID: 4309114635083098435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2159cd40e1e4590800000000000000
+      internalID: -7688174507645398297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f53cd16d48b14b0800000000000000
+      internalID: -5468631267354124416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d447b17ec55513e0800000000000000
+      internalID: -2083664907429526319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cbd364d2a3d3270800000000000000
+      internalID: 8231799660029525104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9541f5b1b0ef69680800000000000000
+      internalID: -8748525902463298471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98176f56d90f8c0800000000000000
+      internalID: -3967498210461513283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea773542eccf9b3f0800000000000000
+      internalID: -884397889498679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680877b1aeff39490800000000000000
+      internalID: -7740561953571503994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb55fe19eab07e0800000000000000
+      internalID: -1798151684395516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76f0efea7f6ea40800000000000000
+      internalID: 5397273534408910752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eecc89ff96ca8f0800000000000000
+      internalID: -527930509808046457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91445e5a05673340800000000000000
+      internalID: 4843451019466916253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eb8fa297104aa70800000000000000
+      internalID: 8837189988731371122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d328f4c943440cf0800000000000000
+      internalID: -287030492128599085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a27025aa8e9860800000000000000
+      internalID: 7538615268083410567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8277a55ca8e4b0800000000000000
+      internalID: -5410885468404150501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0f634648eeb0e0800000000000000
+      internalID: -2252107375161963932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ca6ed501e70cd0800000000000000
+      internalID: -2591855645205804748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_19: -7220531789331306899
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_38: 4769883419265213539
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_17: -91594281232979384
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_53: -8798030803875586276
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_50: 8570722114676664175
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_66: -5589838686380328924
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_51: -4936170674473721938
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_97: -5410885468404150501
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_14: 5324042441840616338
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_42: 3584755767411530907
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_4: 6356145108933058388
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_35: 7496996271278002075
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_45: -3676751332578701150
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_94: 8837189988731371122
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_52: -8485265814285900000
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_81: 4309114635083098435
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_84: -2083664907429526319
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_56: 2832190506308673281
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_70: 8361032609329811432
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_37: 1301414805135742230
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_65: 6626137314111291314
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_10: 5566745936981520381
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_29: -426226395277415623
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_20: 7594926967336885835
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_55: 1867437801796007965
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_8: -5634955962121873628
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_86: -8748525902463298471
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_11: 6064690264152279716
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_48: -92558030934451252
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_9: 7871122589941489723
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_41: -7421108633754805801
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_82: -7688174507645398297
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_58: -5743991351009614991
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_40: 7223753360504632468
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_28: 8868652563067299175
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_78: -2149892813544216824
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_49: -6558868845897595640
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_62: 8061046610270007253
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_21: 817315703899638092
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_59: -715086791763809006
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_88: -884397889498679378
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_32: -3034158554710156904
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_54: 4663779770686942169
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_74: -4048884495215605241
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_92: -527930509808046457
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_25: 4712513969295837849
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_2: 2872016257143500318
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_67: -9054332451798917771
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_12: -6016012732243632423
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_72: -9118044966382915915
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_73: -2436238440861763604
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_87: -3967498210461513283
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_26: 7940365893730172415
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_68: -2687498187854053125
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_61: -4735758825253246236
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_60: 1676907403536000698
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_43: -2457655623217937902
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_3: -5166121444744963669
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_23: 3627268556938825121
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_36: 7829174829628064135
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_77: -7725487765156215510
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_46: -1018502667427163199
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_5: 9043581231972532733
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_30: 7365361062621031571
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_57: 6867064520886405428
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_85: 8231799660029525104
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_76: -8980783465912633993
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_44: 1109257120225405699
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_0: -6693406250311405919
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_16: 7776589051660251051
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_89: -7740561953571503994
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_90: -1798151684395516230
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_33: -6396009764382628593
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_22: 900418716592918881
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_93: 4843451019466916253
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_7: -5310861053399109073
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_47: 7467830232443448104
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_64: -8726702822088271442
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_96: 7538615268083410567
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_34: -8773158245905511654
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_71: -3580331181278662153
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_63: -5916712213122427524
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_1: -233398104177348886
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_75: -4643769589034668216
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_13: -5225290663331279807
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_95: -287030492128599085
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_69: 3669738348542745629
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_15: 3312212911341949131
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_18: -2868469983518839749
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_80: -8675127550400711437
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_27: -1081277098791267266
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_31: -5871277695618866149
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_98: -2252107375161963932
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_91: 5397273534408910752
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_24: -3588643335362604692
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_39: -3018855057857502692
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_99: -2591855645205804748
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_79: 2344781409779974272
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_83: -5468631267354124416
+      2DPIXX - Modern City - Topdown -  Base Tileset (128x128)_6: -5608281109510845843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/S06_Goalie.unity
+    guid: 61bd16365a4e59545956ff63fc8c5288
+  - enabled: 1
+    path: Assets/Scenes/IntroLevel.unity
+    guid: 00bb817d4467443ab8b8d733cd660005
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e35a2244a1c49184cba9e4175071694f, type: 2}
