@@ -1390,6 +1390,7 @@ GameObject:
   - component: {fileID: 419193910}
   - component: {fileID: 419193909}
   - component: {fileID: 419193913}
+  - component: {fileID: 419193914}
   m_Layer: 5
   m_Name: PlayerScooter
   m_TagString: Untagged
@@ -1673,10 +1674,40 @@ MonoBehaviour:
   accelerateActionName: Accelerate
   brakeActionName: Brake
   honkActionName: Honk
-  move: {fileID: 0}
-  accelerate: {fileID: 0}
-  brake: {fileID: 0}
-  honk: {fileID: 0}
+  rotateToVelocity: 1
+  maxTiltDegrees: 10
+  rotationSmooth: 12
+--- !u!114 &419193914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419193907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b31c29f7cc634699bed48b3470f5440, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mapPanel: {fileID: 972730253}
+  playerRect: {fileID: 419193908}
+  puffPrefab: {fileID: 4476253612231789889, guid: f204b29e34f3647baba27ac140871da0, type: 3}
+  spawnRatePerSec: 12
+  minSpeedToEmit: 60
+  localOffset: {x: -24, y: 0}
+  puffSpeed: 80
+  puffLife: 0.5
+  startScale: 0.8
+  endScale: 1.6
+  baseAlpha: 0.9
+  speedVariance: 0.25
+  lifeVariance: 0.15
+  scaleVariance: 0.15
+  alphaVariance: 0.15
+  rotateSpeedMin: -45
+  rotateSpeedMax: 45
+  jitterMin: {x: -10, y: -6}
+  jitterMax: {x: 10, y: 6}
 --- !u!1 &436076784
 GameObject:
   m_ObjectHideFlags: 0
