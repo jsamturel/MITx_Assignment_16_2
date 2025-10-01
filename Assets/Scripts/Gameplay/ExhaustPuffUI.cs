@@ -11,11 +11,11 @@ public class ExhaustPuffUI : MonoBehaviour
     private Vector2 velocity;
     private float startScale;
     private float endScale;
-    private float baseAlpha = 1f;
+    private float baseAlpha;
 
-    // Extra juice
+    // Extra feel
     private float rotateSpeedDeg;
-    private Vector2 jitterPerSec;   // small lateral wander
+    private Vector2 jitterPerSec;
     private float startAngle;
 
     public void Play(
@@ -24,11 +24,13 @@ public class ExhaustPuffUI : MonoBehaviour
         Vector2 dir,
         float speed,
         float duration,
-        float s0 = 0.8f,
-        float s1 = 1.6f,
+        float s0 = 0.9f,
+        float s1 = 1.8f,
         float alpha = 1f,
         float rotateSpeedDegPerSec = 30f,
-        Vector2 jitterPerSecond = default
+        Vector2 jitterPerSecond = default,
+        Sprite variant = null,
+        float startAngleJitterDeg = 12f   // NEW: small visual angle jitter ±
     )
     {
         if (!rt) rt = GetComponent<RectTransform>();
@@ -37,24 +39,25 @@ public class ExhaustPuffUI : MonoBehaviour
         transform.SetParent(parent, false);
         rt.anchoredPosition = startPos;
 
+        if (variant != null) img.sprite = variant;
+
         dir = dir.sqrMagnitude > 0.001f ? dir.normalized : Vector2.left;
         velocity = dir * speed;
-
         maxLife = Mathf.Max(0.1f, duration);
         life = 0f;
 
         startScale = s0;
-        endScale = s1;
+        endScale   = s1;
+        baseAlpha  = Mathf.Clamp01(alpha);
 
-        baseAlpha = Mathf.Clamp01(alpha);
         var c = img.color; c.a = baseAlpha; img.color = c;
 
-        // Randomize a bit for variety
-        startAngle = Random.Range(0f, 360f);
+        // Small initial visual rotation jitter
+        startAngle     = Random.Range(-startAngleJitterDeg, startAngleJitterDeg);
         rotateSpeedDeg = rotateSpeedDegPerSec;
-        jitterPerSec = jitterPerSecond;
+        jitterPerSec   = jitterPerSecond;
 
-        rt.localScale = Vector3.one * startScale;
+        rt.localScale       = Vector3.one * startScale;
         rt.localEulerAngles = new Vector3(0, 0, startAngle);
 
         gameObject.SetActive(true);
@@ -67,27 +70,22 @@ public class ExhaustPuffUI : MonoBehaviour
         life += Time.deltaTime;
         float t = Mathf.Clamp01(life / maxLife);
 
-        // Easing (ease-out for movement/scale, smoother fade)
-        float ease = 1f - Mathf.Pow(1f - t, 2f); // quadratic ease-out
+        // Ease for scale, late fade for fuller look
+        float scaleEase = 1f - Mathf.Pow(1f - t, 2f);    // ease-out
+        float fade      = 1f - Mathf.SmoothStep(0.55f, 1f, t); // fade near the end
 
-        // Move + slight jitter
         rt.anchoredPosition += (velocity + jitterPerSec) * Time.deltaTime;
 
-        // Scale up softly
-        float s = Mathf.Lerp(startScale, endScale, ease);
+        float s = Mathf.Lerp(startScale, endScale, scaleEase);
         rt.localScale = Vector3.one * s;
 
-        // Spin a bit for organic feel
         if (Mathf.Abs(rotateSpeedDeg) > 0.01f)
-        {
             rt.Rotate(0f, 0f, rotateSpeedDeg * Time.deltaTime);
-        }
 
-        // Fade out (ease)
         if (img)
         {
             var c = img.color;
-            c.a = baseAlpha * (1f - ease);
+            c.a = baseAlpha * Mathf.Clamp01(fade);
             img.color = c;
         }
 

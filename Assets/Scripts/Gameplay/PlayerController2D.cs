@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerController2D : MonoBehaviour
 {
     [Header("UI References")]
-    [SerializeField] private RectTransform mapPanel;   // The container the scooter moves within
+    [SerializeField] private RectTransform mapPanel;   // Container the scooter moves within
     [SerializeField] private RectTransform playerRect; // The scooter's RectTransform (UI Image)
 
     [Header("Movement")]
@@ -14,11 +14,14 @@ public class PlayerController2D : MonoBehaviour
     [SerializeField] private float baseSpeedScalar = 0.6f; // idle forward factor (0..1)
 
     [Header("Audio")]
-    [SerializeField] private AudioSource honkAudio;
+    [SerializeField] private AudioSource honkAudio;        // optional
+
+    [Header("Headlight Flash")]
+    [SerializeField] private HeadlightFlashUI headlightFlash; // assign the Headlight (with HeadlightFlashUI)
 
     [Header("Input System (PlayerInput)")]
     [SerializeField] private bool usePlayerInput = true;
-    [SerializeField] private PlayerInput playerInput;               // Assign the PlayerInput on UIManager (or same GameObject)
+    [SerializeField] private PlayerInput playerInput;               // assign your scene's PlayerInput
     [SerializeField] private string moveActionName = "Move";        // Vector2
     [SerializeField] private string accelerateActionName = "Accelerate"; // Button
     [SerializeField] private string brakeActionName = "Brake";           // Button
@@ -33,7 +36,7 @@ public class PlayerController2D : MonoBehaviour
     private Vector2 dirInput;       // normalized move input (from arrows/left stick)
     private float speedScalar;      // 0..1 scaled by accel/brake
     private Vector2 velocity;       // current velocity in UI px/sec
-    private bool lastAccelHeld;     // public getter exposes this
+    private bool lastAccelHeld;     // exposed via IsAccelerating
 
     void Awake()
     {
@@ -45,7 +48,7 @@ public class PlayerController2D : MonoBehaviour
 
     void Update()
     {
-        ReadInput();                       // read actions (scaled time)
+        ReadInput();                       // scaled time
         UpdateMovement(Time.deltaTime);    // obeys pause (timeScale)
     }
 
@@ -53,48 +56,54 @@ public class PlayerController2D : MonoBehaviour
     private void ReadInput()
     {
         if (!(usePlayerInput && playerInput != null))
-            return; // nothing to read (explicitly no legacy fallback)
+            return; // Input System only (no legacy fallback)
 
-        // Actions by name (make sure they exist in the assigned InputActions asset)
+        // Fetch actions by name (ensure names exist in your Input Actions asset)
         var moveAction  = playerInput.actions[moveActionName];
         var accelAction = playerInput.actions[accelerateActionName];
         var brakeAction = playerInput.actions[brakeActionName];
         var honkAction  = playerInput.actions[honkActionName];
 
+        // Movement vector (arrows/left stick)
         dirInput = moveAction != null ? moveAction.ReadValue<Vector2>() : Vector2.zero;
         dirInput = Vector2.ClampMagnitude(dirInput, 1f);
 
+        // Accel / brake buttons
         bool accelHeld = accelAction != null && accelAction.IsPressed();
         bool brakeHeld = brakeAction != null && brakeAction.IsPressed();
         lastAccelHeld = accelHeld;
 
-        // target speed scalar based on accel/brake
+        // Target speed scalar based on accel/brake
         float target = baseSpeedScalar;
         if (accelHeld) target = 1f;
         if (brakeHeld) target = 0.2f;
 
-        // smooth the scalar toward target
+        // Smooth the scalar toward target
         float rate = accelHeld ? acceleration : brakeDecel;
         speedScalar = Mathf.MoveTowards(speedScalar, target, rate * Time.deltaTime / 1000f);
 
-        if (honkAction != null && honkAction.WasPressedThisFrame() && honkAudio)
-            honkAudio.Play();
+        // Honk (audio) + headlight flash
+        if (honkAction != null && honkAction.WasPressedThisFrame())
+        {
+            if (honkAudio) honkAudio.Play();
+            if (headlightFlash) headlightFlash.Flash();
+        }
     }
 
     // --------------- MOVEMENT ----------------
     private void UpdateMovement(float dt)
     {
-        // desired velocity from input * maxSpeed * scalar
+        // desired velocity
         Vector2 targetVel = dirInput.normalized * (maxSpeed * Mathf.Clamp01(speedScalar));
 
-        // move velocity toward target (simple accel model)
+        // approach target velocity with simple accel
         velocity = Vector2.MoveTowards(velocity, targetVel, acceleration * dt);
 
         // integrate position
         Vector2 pos = playerRect.anchoredPosition;
         pos += velocity * dt;
 
-        // clamp inside map panel rect
+        // clamp within map panel rect
         Rect rect = GetLocalRect(mapPanel);
         Vector2 half = playerRect.rect.size * 0.5f;
         float minX = rect.xMin + half.x;
@@ -119,7 +128,7 @@ public class PlayerController2D : MonoBehaviour
             }
 
             float currentZ = playerRect.localEulerAngles.z;
-            if (currentZ > 180f) currentZ -= 360f; // map to -180..180 for lerp
+            if (currentZ > 180f) currentZ -= 360f; // map to -180..180
 
             float newZ = Mathf.Lerp(currentZ, targetAngle, 1f - Mathf.Exp(-rotationSmooth * dt));
             playerRect.localEulerAngles = new Vector3(0f, 0f, newZ);
@@ -129,11 +138,13 @@ public class PlayerController2D : MonoBehaviour
     private Rect GetLocalRect(RectTransform rt)
     {
         Vector2 size = rt.rect.size;
-        return new Rect(-size * 0.5f, size); // anchoredPosition space
+        return new Rect(-size * 0.5f, size); // anchoredPosition space (centered)
     }
 
     // --------------- PUBLIC GETTERS ----------------
     public Vector2 CurrentVelocity => velocity;
     public bool IsAccelerating => lastAccelHeld;
     public float CurrentSpeed01 => Mathf.InverseLerp(0f, maxSpeed, velocity.magnitude);
+    public bool IsMoving => dirInput.sqrMagnitude > 0.01f;
+
 }
