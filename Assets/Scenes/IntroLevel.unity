@@ -5618,6 +5618,36 @@ MonoBehaviour:
   promptMessage: Press Enter to deliver
   promptRadius: 80
   delivered: 0
+  onDelivered:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 99269128}
+        m_TargetAssemblyTypeName: HUDControllerTMP, Assembly-CSharp
+        m_MethodName: AddDelivery
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onAddScore:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 99269128}
+        m_TargetAssemblyTypeName: HUDControllerTMP, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 50
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!224 &1128798514
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6207,6 +6237,36 @@ MonoBehaviour:
   promptMessage: Press Enter to deliver
   promptRadius: 80
   delivered: 0
+  onDelivered:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 99269128}
+        m_TargetAssemblyTypeName: HUDControllerTMP, Assembly-CSharp
+        m_MethodName: AddDelivery
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onAddScore:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 99269128}
+        m_TargetAssemblyTypeName: HUDControllerTMP, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 50
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!224 &1265616244
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8943,6 +9003,10 @@ PrefabInstance:
     - target: {fileID: 8841098489688221668, guid: e953513ac8ee54d22b27ffcb4f5017e7, type: 3}
       propertyPath: m_Name
       value: Railing_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8841098489688221668, guid: e953513ac8ee54d22b27ffcb4f5017e7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e953513ac8ee54d22b27ffcb4f5017e7, type: 3}

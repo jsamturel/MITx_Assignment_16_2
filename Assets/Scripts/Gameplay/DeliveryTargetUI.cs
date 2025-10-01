@@ -1,5 +1,8 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.Events;
+
+[System.Serializable] public class IntEvent : UnityEvent<int> { }
 
 public class DeliveryTargetUI : MonoBehaviour
 {
@@ -14,6 +17,10 @@ public class DeliveryTargetUI : MonoBehaviour
     [Header("State (read-only at runtime)")]
     [SerializeField] private bool delivered = false;
 
+    [Header("Events")]
+    public UnityEvent onDelivered;     // e.g., HUDControllerTMP.AddDelivery()
+    public IntEvent onAddScore;        // e.g., HUDControllerTMP.AddScore(int)
+
     public bool Delivered => delivered;
     public RectTransform Rect => homeRect ? homeRect : (homeRect = GetComponent<RectTransform>());
 
@@ -23,9 +30,7 @@ public class DeliveryTargetUI : MonoBehaviour
         if (!promptText)
         {
             foreach (var t in GetComponentsInChildren<TMP_Text>(true))
-            {
                 if (t.name.ToLower().Contains("prompt")) { promptText = t; break; }
-            }
         }
     }
 
@@ -38,10 +43,6 @@ public class DeliveryTargetUI : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Show/hide the prompt based on distance, unless already delivered.
-    /// Call this each frame from your manager with the player's anchoredPosition.
-    /// </summary>
     public void UpdatePrompt(Vector2 playerAnchoredPos)
     {
         if (!promptText) return;
@@ -66,10 +67,6 @@ public class DeliveryTargetUI : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Immediately marks delivered and hides the prompt. Returns true if we changed state.
-    /// Use this if your manager already checked distance.
-    /// </summary>
     public bool TryDeliver()
     {
         if (delivered) return false;
@@ -77,14 +74,9 @@ public class DeliveryTargetUI : MonoBehaviour
         return true;
     }
 
-    /// <summary>
-    /// Checks distance and, if close enough, marks delivered and hides the prompt.
-    /// Returns true if delivery happened this call.
-    /// </summary>
     public bool TryDeliver(Vector2 playerAnchoredPos, float interactRadius)
     {
         if (delivered) return false;
-
         float dist = Vector2.Distance(playerAnchoredPos, Rect.anchoredPosition);
         if (dist <= interactRadius)
         {
@@ -94,13 +86,16 @@ public class DeliveryTargetUI : MonoBehaviour
         return false;
     }
 
-    /// <summary>
-    /// Sets delivered = true and hides the prompt (if present).
-    /// </summary>
     public void MarkDelivered()
     {
+        if (delivered) return;
         delivered = true;
+
         if (promptText && promptText.gameObject.activeSelf)
             promptText.gameObject.SetActive(false);
+
+        // Fire events
+        onDelivered?.Invoke();
+        onAddScore?.Invoke(50); // default 50; you can change per-home in Inspector
     }
 }
